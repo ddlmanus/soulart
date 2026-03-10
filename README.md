@@ -1,6 +1,6 @@
 <div align="center">
 
-<br />
+![Soulart Open Banner](./docs/readme-banner.svg)
 
 # Soulart Open
 
@@ -16,62 +16,84 @@
 
 ---
 
-## Overview
+## Table of Contents
 
-`Soulart Open` is a **sanitized public edition** extracted from a production AI design system.
-
-This repository is designed for:
-
-- open-source collaboration
-- frontend baseline reuse
-- independent feature development on top of a clean public starter
-
-It is **not** a full mirror of the private production system.
+- [Overview](#overview)
+- [Feature Highlights](#feature-highlights)
+- [Preview](#preview)
+- [Open-Source Scope](#open-source-scope)
+- [Architecture](#architecture)
+- [Project Structure](#project-structure)
+- [Quick Start](#quick-start)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## Features
+## Overview
 
-The open-source edition currently provides:
+`Soulart Open` is a **sanitized public edition** extracted from a production AI design platform.
 
-- App Router project baseline (Next.js)
-- Clean landing page structure
-- About / Privacy / Terms public pages
-- Reusable global style system
-- Ready-to-extend project layout for future modules
+It is intended as a clean, extensible foundation for:
 
-For the complete private product capability map, see:
+- open-source collaboration
+- frontend baseline reuse
+- independent feature development
+
+This repository is intentionally **safe for public release** and does not contain private production internals.
+
+For the full private system capability map (documentation only), see:
 
 - [PROJECT_CORE_FEATURES.md](./PROJECT_CORE_FEATURES.md)
 
 ---
 
-## Open-Source Scope
+## Feature Highlights
 
-### Included in this public repo
-
-- basic frontend structure
-- static public pages
-- project bootstrapping and deployment-friendly layout
-
-### Intentionally excluded from this public repo
-
-- full canvas engine implementation
-- full chat / agent orchestration module
-- full admin backend
-- LLM routing and model invocation pipeline
-- database schema / migrations / Redis integration
-- cloud vendor integrations and production credentials
+| Module | Description |
+|---|---|
+| `App Router Base` | Next.js App Router scaffold with a minimal, maintainable layout |
+| `Public Pages` | Ready pages: Home, About, Privacy, Terms |
+| `Style Foundation` | Global CSS tokens and clean visual baseline |
+| `Open-Safe Scope` | Sanitized release boundary with clear excluded modules |
+| `Extensible Skeleton` | Easy to add future open-source modules on top |
 
 ---
 
-## Architecture (Open Edition)
+## Preview
+
+![Soulart Open Preview](./docs/readme-preview.svg)
+
+---
+
+## Open-Source Scope
+
+### Included
+
+- basic frontend project skeleton
+- static public pages and route structure
+- reusable style and layout foundation
+- repo structure suitable for incremental open development
+
+### Excluded (private/product-critical)
+
+- full canvas engine and editor internals
+- full chat / agent orchestration
+- full admin backend
+- LLM routing and provider invocation runtime
+- database schemas/migrations, Redis, and cloud service integration
+- production credentials and private infrastructure logic
+
+---
+
+## Architecture
 
 ```mermaid
 flowchart LR
     A["Public User"] --> B["Next.js App Router"]
-    B --> C["Landing / About / Privacy / Terms"]
-    B --> D["Reusable UI & Style Base"]
+    B --> C["Home / About / Privacy / Terms"]
+    B --> D["Reusable Style & Layout Base"]
     D --> E["Future Open Modules"]
 ```
 
@@ -88,9 +110,13 @@ soulart-open/
 │   ├── terms/page.tsx
 │   ├── layout.tsx
 │   └── globals.css
+├── docs/
+│   ├── readme-banner.svg
+│   └── readme-preview.svg
 ├── public/
-├── README.md
 ├── PROJECT_CORE_FEATURES.md
+├── README.md
+├── LICENSE
 ├── package.json
 ├── next.config.ts
 └── tsconfig.json
@@ -106,7 +132,7 @@ soulart-open/
 npm install
 ```
 
-### 2. Run local development server
+### 2. Run local dev server
 
 ```bash
 npm run dev
@@ -118,14 +144,27 @@ npm run dev
 
 ---
 
-## Development Notes
+## Roadmap
 
-- Keep `.env` local; never commit real secrets.
-- Build new features as independent open-source implementations.
-- Do not copy private production logic directly into this public repository.
+- [ ] add a reusable component section with docs
+- [ ] provide optional API mock layer for frontend demos
+- [ ] add tests and CI workflow for open-source quality gate
+- [ ] publish contribution templates and issue labels
+
+---
+
+## Contributing
+
+PRs are welcome for open-scope modules.
+
+Before contributing:
+
+- keep changes inside public-safe boundaries
+- do not add secrets, private endpoints, or production credentials
+- avoid porting private production logic directly
 
 ---
 
 ## License
 
-This repository is released under the MIT License.
+Released under the MIT License.
