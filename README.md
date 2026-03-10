@@ -1,9 +1,9 @@
 <div align="center">
+    # Soulart
 <img width="2912" height="1454" alt="image" src="https://github.com/user-attachments/assets/b07ceec3-243b-4fe0-bafd-6a5d2cf8fad6" />
-
-
-# Soulart
 有需要的可以去某鱼上搜Soulart同款Lovart源码
+    ![61933a63a20b4e57f409846d7ffd8110](https://github.com/user-attachments/assets/35c79c55-f063-498e-bfd5-a27acbae5ab5)
+
 应用功能部分截图：
 <img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/699f5377-1040-43cb-9d6f-43ae4382c782" />
 <img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/849a8745-a2b9-484b-98be-bf7b615b8169" />
