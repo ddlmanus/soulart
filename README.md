@@ -2,8 +2,6 @@
     # Soulart
 <img width="2912" height="1454" alt="image" src="https://github.com/user-attachments/assets/b07ceec3-243b-4fe0-bafd-6a5d2cf8fad6" />
 #有需要的可以去某鱼上搜Soulart同款Lovart源码
-
-    -----
 ![61933a63a20b4e57f409846d7ffd8110](https://github.com/user-attachments/assets/6ec423ec-100b-43c1-a4ed-d8f37d4df157)
 
 应用功能部分截图：
@@ -21,6 +19,9 @@
 </div>
 
 ---
+体验地址：http://ddlmanus.xyz
+
+
 应用部分截图：
 <img width="2940" height="1726" alt="345ee266d25c40764836b824959a54a0" src="https://github.com/user-attachments/assets/7c07f886-9778-4abd-967f-2e1918f2151b" />
 <img width="1424" height="1220" alt="bf5fefc4956d5d45e2575685571a1cc3" src="https://github.com/user-attachments/assets/71061714-9eb4-4257-ba76-4c349bed9bda" />
