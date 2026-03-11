@@ -1,6 +1,8 @@
 <div align="center">
     # Soulart
 <img width="2912" height="1454" alt="image" src="https://github.com/user-attachments/assets/b07ceec3-243b-4fe0-bafd-6a5d2cf8fad6" />
+
+    #
 #有需要的可以去某鱼上搜Soulart同款Lovart源码
 ![61933a63a20b4e57f409846d7ffd8110](https://github.com/user-attachments/assets/6ec423ec-100b-43c1-a4ed-d8f37d4df157)
 
@@ -9,13 +11,6 @@
 <img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/849a8745-a2b9-484b-98be-bf7b615b8169" />
 <img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/81bf2ec2-6334-4cea-b53e-33582ca8dcac" />
 <img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/f4326b58-075e-4700-b820-88b3566f75ed" />
-<img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/69a438cc-52e0-4b33-8be9-ac04dff996bb" />
-<img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/8da568b6-d0cc-4fc0-aec0-5b171f494906" />
-<img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/d576d5be-2df8-4599-88f6-a91f4d5306cb" />
-<img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/878b17e2-f594-417b-a0ec-ee166783dd3d" />
-<img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/11812c1b-be49-46a2-b8b5-3bbf1eda7484" />
-<img width="2940" height="1728" alt="image" src="https://github.com/user-attachments/assets/d147d345-8e6c-4461-9881-64522f603b70" />
-
 </div>
 
 ---
@@ -28,12 +23,6 @@
 
 <img width="2940" height="1728" alt="96e32ef4a8f72096b02be8c6e7e4e1c6" src="https://github.com/user-attachments/assets/ebf7e9f4-ecee-4506-80e5-09ad3c86edd3" />
 <img width="2940" height="1728" alt="282f0717f0e52c7092b862058ec33e16" src="https://github.com/user-attachments/assets/907454b4-bf51-476d-a38f-073f34200c37" />
-<img width="2940" height="1726" alt="e16d0ec65175609e96df1645f2d80bd2" src="https://github.com/user-attachments/assets/416497bc-7115-4c60-8d40-a87a4e2dd225" />
-<img width="2436" height="1344" alt="1081b357dbc3dba6163ef1601d05664b" src="https://github.com/user-attachments/assets/20dc1e71-8d37-4a54-a4c9-c9d74c63e4a3" />
-<img width="2940" height="1728" alt="b9ad7942906511345fc65db47bbf7163" src="https://github.com/user-attachments/assets/fc29efdc-a3b7-4a74-81f4-1eae0beddd0d" />
-<img width="2940" height="1728" alt="a9d45a084c4dd740a6275a92d7d41f91" src="https://github.com/user-attachments/assets/8c658bae-8ecf-4163-b1fa-6a062dd852df" />
-<img width="2940" height="1728" alt="db6e2ed9dc17f543f8c662354a95f770" src="https://github.com/user-attachments/assets/202a7abc-df81-4108-a58a-5eec3b7bf029" />
-<img width="2940" height="1728" alt="8465ae8564940921fe378c7e06221ffc" src="https://github.com/user-attachments/assets/85978326-3400-47bd-a85b-be5c2be668f3" />
 ![Uploading dffa0288d137a3e870033e2f2ef72a57.png…]()
 
 
