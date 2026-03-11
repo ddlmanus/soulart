@@ -26,13 +26,6 @@
 ![Uploading dffa0288d137a3e870033e2f2ef72a57.png…]()
 
 
-
-
-
-
-
-
-
 ## Overview
 
 `Soulart ` is a **sanitized public edition** extracted from a production AI design platform.
